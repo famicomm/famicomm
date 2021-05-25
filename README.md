@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 
-- 😄 Pronouns: ...
+
 - 
 -->
 
 - 🔭 I’m currently working on VoxelTest, a Minecraft Python-Made Clone in Ursina Engine
 - 🌱 I’m currently learning Python!
-- 📫 How to reach me: @cdvhsdvd on IG and cdvhs#0449 on Discord
+- 📫 How to reach me: @cdvhs_ on IG and cdvhs#0449 on Discord
+- 😄 Pronouns: he/him
 
 That's it! I'm not nothing special and I'm just having fun here.
