@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 
 -->
 
-- 🔭 I’m currently working on VoxelTest, a Minecraft Python-Made Clone in Ursina Engine
+- 🔭 I’m currently working on VoxelTesting.
 - 🌱 I’m currently learning Python!
 - 📫 How to reach me: @cdvhs_ on IG and cdvhs#0449 on Discord
 - 😄 Pronouns: he/him
