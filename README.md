@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @cdvhs_ on IG and cdvhs#0449 on Discord
 - 😄 Pronouns: he/him
 
-That's it! I'm not nothing special and I'm just having fun here.
+That's it! I'm nothing special and I'm just having fun here.
