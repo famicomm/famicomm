@@ -10,14 +10,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 
+- 🔭 I’m currently working on nothing.
 
 - 
 -->
 
-- 🔭 I’m currently working on PolarOS.
 - 🌱 I’m currently learning C++!
-- 📫 How to reach me: @cdvhs_ on IG and cdvhs#0449 on Discord
+- 📫 How to reach me: @ambistormia on IG and ambistormia#0449 on Discord
 - 😄 Pronouns: he/him
-
-That's it! I'm nothing special and I'm just having fun here.
+- 🤔 Straight
