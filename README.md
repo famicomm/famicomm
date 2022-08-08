@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - 
 -->
 
-- 🌱 I’m currently learning C++!
-- 📫 How to reach me: @ambistormia on IG and ambistormia#0449 on Discord
-- 😄 Pronouns: he/him
-- 🤔 Straight
+local idiot
