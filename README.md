@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 
 -->
 
-local idiot
+- 🔭 I’m currently working on LWJGL and Java!
+- 🤔 I’m looking for help with it
+- 💬 You can contact me on Discord: aightbet#0591
