@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LWJGL and Java!
 - 🤔 I’m looking for help with it
-- 💬 You can contact me on Discord: aightbet#0591
+- 💬 You can contact me on Discord: stars7ruck#1485
